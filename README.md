@@ -2,10 +2,10 @@ Create an address book using the C programming language.
 Use a linked list to store addresses
 
 The following data must be stored in the address book:
-- * Name
-- * Surname
-- * Telephone number
-- * E-mail post office
+- Name
+- Surname
+- Telephone number
+- E-mail post office
 
 The notebook must have the following functions:
 
